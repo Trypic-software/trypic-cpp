@@ -1,0 +1,2 @@
+g++ src/francpp_fortune.cpp -o build/francpp_fortune
+g++ src/francpp_calc.cpp -o build/francpp_calc
